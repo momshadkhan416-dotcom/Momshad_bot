@@ -15,7 +15,7 @@ def run_flask():
 
 threading.Thread(target=run_flask).start()
 
-API_TOKEN = "8905641525:AAHLtjsYYTxDwZt49Ms_DxAekBP_Fj78JkU"
+API_TOKEN = "8905641525:AAEXzNUDytlkrx18y4iEHTwqX7UrZgn32mE"
 bot = telebot.TeleBot(API_TOKEN)
 
 # Your Admin Telegram ID
